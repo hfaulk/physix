@@ -11,7 +11,7 @@ __version__ = "0.5"
 __author__ = "Harry Faulkner"
 
 #Imports
-from graphix import GraphixObject, Window, Point, Circle, Rectangle, Line
+from lib.graphix import GraphixObject, Window, Point, Circle, Rectangle, Line
 
 #Classes
 class Group:
